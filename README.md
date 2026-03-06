@@ -192,7 +192,7 @@ customer-churn
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/customer-churn.git
+git clone https://github.com/subesh-cse/customer-churn-prediction.git
 ```
 
 Move into the project directory:
